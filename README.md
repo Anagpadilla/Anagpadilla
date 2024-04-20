@@ -1,15 +1,73 @@
-
-<h1 align="center">Hi 👋, I'm Ana</h1>
-<h3 align="center">A passionate web developer from Spain</h3>
-
-- 🔭 I’m currently working on [so_long_42](https://github.com/Anagpadilla/so_long_42)
-
-- 📫 How to reach me **ana.g.p.22gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ana-garcia-padilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-garcia-padilla" height="30" width="40" /></a>
+<p align="center">
+ <h2 align="center">Hi! I'm Ana! 👋</h2>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+![52714](https://user-images.githubusercontent.com/112553001/223176220-ff346257-ca0c-496d-ba69-a6aead5a8207.jpg)
+
+I am a junior web developer. I am beginning my path in the world of programming, I have a lot of initiative and a great desire to learn everything. I have studied:
+- Current Student in [42 Madrid](https://www.42madrid.com)
+- Full Stack Web Development vocational training at [Ilerna.]((https://www.ilerna.es )
+- Code your talent - Data  Bootcamp at [UNIR]((https://estudiar.unir.net )
+- I have also studied a degree in Prymary Education teaching training. 
+
+<div>
+<h3>Languages :</h3>
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C-3EB5FF?style=for-the-badge&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+ 
+</div>
+<div>
+<h3>Dev Tools :</h3>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vim-06AC00?style=for-the-badge&logo=vim&logoColor=white"/>
+   <img src="https://img.shields.io/badge/NPM-cc3838?style=for-the-badge&logo=NPM&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <!--  <img src="https://img.shields.io/badge/SLACK-4a154b?style=for-the-badge&logo=SLACK&logoColor=white"/> -->
+</div>
+
+
+<div>
+<h3> Contact :</h3>
+  <a href="https://www.linkedin.com/in/ana-garcia-padilla" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+   </a>
+     <a href="mailto:ana.g.p.22@gmail.com" target="_blank" title="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+<div style="text-align:center">
+<h3> My stats :</h3>
+  
+
+
+ <!--  <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martscastrillo&hide=,G-code,css,objective-c,roff,tex,makefile&theme=tokyonight&langs_count=8" alt="Top Langs"/>
+ <!--  </a> -->
+  
+<br>
+  
+
+  
+<br>
+ <!--  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=martscastrillo&theme=tokyonight&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" />
+ <!--  </a> -->
+  
+<br>
+  
+
+  
+<br>
+ <!--  <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martscastrillo&theme=tokyonight&show_icons=true&hide=stars,prs" alt="Catalin's GitHub stats"/>
+ <!-- </a> -->
+</div>
